@@ -31,6 +31,11 @@
         /// <summary>
         /// Max
         /// </summary>
-        VIEW_MAX
+        VIEW_MAX,
+
+        /// <summary>
+        /// Unchanged
+        /// </summary>
+        VIEW_UNCHANGED = 255
     }
 }
